@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/VsWorkplace/0Makefile/fun1.c
+stdlib.h
+-
+stdio.h
+-
+
+/root/VsWorkplace/0Makefile/fun1.h
+
+/root/VsWorkplace/0Makefile/fun2.c
+stdlib.h
+-
+stdio.h
+-
+
+/root/VsWorkplace/0Makefile/fun2.h
+
+/root/VsWorkplace/0Makefile/main.c
+stdlib.h
+-
+fun1.h
+/root/VsWorkplace/0Makefile/fun1.h
+fun2.h
+/root/VsWorkplace/0Makefile/fun2.h
+

@@ -1,0 +1,1 @@
+/usr/bin/cc -g -O2 -fsanitize=address -fno-omit-frame-pointer -fsanitize=address  -rdynamic CMakeFiles/Test.dir/main.c.o CMakeFiles/Test.dir/fun1.c.o CMakeFiles/Test.dir/fun2.c.o  -o Test  -L/root/VsWorkplace/0Makefile 

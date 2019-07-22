@@ -1,0 +1,16 @@
+[0702/115838:INFO:exception_record.cc(518)] [QB]Process ID: 14740 Type: 2
+[0702/115839:INFO:http_cache_transaction.cc(72)] IgnoreZeroCacheError: 0
+[0702/152246:INFO:exception_record.cc(518)] [QB]Process ID: 5212 Type: 2
+[0702/152255:WARNING:webmediaplayer_impl.cc(341)] Using MultibufferDataSource
+[0702/152256:WARNING:webmediaplayer_impl.cc(341)] Using MultibufferDataSource
+[0702/165906:INFO:exception_record.cc(518)] [QB]Process ID: 20968 Type: 2
+[0702/165910:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0702/165910:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0702/165910:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0702/165910:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0702/165910:ERROR:waituntilobserver.cpp(144)] NOT IMPLEMENTED
+[0702/172910:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0702/175910:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0702/182910:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0702/185910:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0702/191320:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
