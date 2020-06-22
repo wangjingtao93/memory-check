@@ -690,3 +690,4 @@ AddressSaniizer最近采用了“错误后继续”模式.这在某种程度上�
 另外只有C的选项是访问不受Asan保护的全局公共符号（您可以使用-fno-common来禁用公共符号的生成并希望检测更多错误。
 如果启用了_FORTIFY_SOURCE，则ASan可能有误报，参阅下一
 
+# 在gcc7上使用
